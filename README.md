@@ -5,7 +5,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rizky98ibrahim)
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:rizky98ibrahim@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Freelance+Developer;I+am+also+a+coffee+lover;Passionate+about+building+amazing+things;Turning+ideas+into+code;Coding+with+creativity+and+precision;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=800&lines=Freelance+Developer;I+am+also+a+coffee+lover;Passionate+about+building+amazing+things;Turning+ideas+into+code;Coding+with+creativity+and+precision;Nice+to+meet+you...)](https://git.io/typing-svg)
 
 Web Developer with 1 year of work experience. I have deep knowledge in programming languages such as PHP, CSS, JavaScript, TypeScript, as well as popular frameworks such as React, Angular, VueJS, Laravel, and NestJS. I am able to work independently or in a team and I'm always ready to learn new things to continuously develop my skills.
 
